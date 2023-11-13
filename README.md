@@ -2,6 +2,8 @@
 
 Welcome to the [Good Vibes Feed](https://good-vibes-feed-0f727cb91a84.herokuapp.com/) project! This is a web application built using React for the frontend and Node.js with Express and MongoDB for the backend. The project aims to provide a platform where users can read and comment on positive and inspiring articles. Below, you'll find information about the project structure, setup, and key components.
 
+![Alt text](images/goodVibesFeed_screenshot.png)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
